@@ -1,3 +1,6 @@
 [submodule "backend_tutor"]
 	path = backend_tutor
 	url = https://github.com/Subram-skcet/TUTOR_FINDER_backend
+[submodule "react_practice"]
+	path = react_practice
+	url = https://github.com/Subram-skcet/TUTOR_FINDER
